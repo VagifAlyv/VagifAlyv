@@ -18,7 +18,6 @@ I focus on building projects that emphasize **correctness, performance, and clea
 ## Current focus
 - Building a portfolio-grade flagship project  
 - Improving system design and software engineering practices  
-- Preparing for graduate-level study and research-oriented work  
 
 ## Tech Stack
 - **Languages:** C, Python, SQL  
