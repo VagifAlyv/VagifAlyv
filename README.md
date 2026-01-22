@@ -20,9 +20,9 @@ I focus on building projects that emphasize **correctness, performance, and clea
 - Improving system design and software engineering practices  
 
 ## Tech Stack
-- **Languages:** C, Python, SQL  
-- **Tools:** Git, Linux (Arch), Docker  
-- **Domains:** AI/ML, Databases, Systems, Networking  
+- **Languages:** C, Python, SQL, Java  
+- **Tools:** Git, Linux(Ubuntu)  
+- **Domains:** AI/ML, Databases, Systems  
 
 ## Links
 - LinkedIn: _(https://www.linkedin.com/in/vagif-aliyev-a5733a275/)_
