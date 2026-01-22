@@ -7,7 +7,6 @@ I focus on building projects that emphasize **correctness, performance, and clea
 - Artificial Intelligence & Machine Learning
 - Systems Programming (C, operating systems concepts)
 - Databases & Backend Systems
-- Computer Networking
 - Applied research and real-world problem solving
 
 ## What I care about
