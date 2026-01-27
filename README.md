@@ -5,18 +5,9 @@ I focus on building projects that emphasize **correctness, performance, and clea
 
 ## Interests
 - Artificial Intelligence & Machine Learning
-- Systems Programming (C, operating systems concepts)
-- Databases & Backend Systems
-- Applied research and real-world problem solving
 
 ## What I care about
 - Writing code that is understandable and maintainable  
-- Understanding how things work under the hood  
-- Turning theoretical knowledge into working systems  
-
-## Current focus
-- Building a portfolio-grade flagship project  
-- Improving system design and software engineering practices  
 
 ## Tech Stack
 - **Languages:** C, Python, SQL, Java  
